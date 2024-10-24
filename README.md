@@ -34,4 +34,4 @@ To run the notebook:
 ## Support
 
 For any issues or questions, please contact via email:
-[ghazibenhenia0@gmail.com](mailto:ghazibenhenia0@gmail.com)
+[ghazi.benhenia@outlook.com](mailto:ghazi.benhenia@outlook.com)
